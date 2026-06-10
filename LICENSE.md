@@ -1,4 +1,4 @@
-# 
+# VIP dex arbitrage bot presets for Mac OS | Free dex arbitrage bot presets for PC Windows. Featuring backtesting engine and custom dashboards — optimized for maximum performance on every platform.
 
 
 
